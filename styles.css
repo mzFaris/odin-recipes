@@ -1,0 +1,17 @@
+* {
+    font-family: monospace, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0px 0px 10px;
+}
+
+.recipes {
+    font-size: 20px;
+    margin: -10px auto 0px;
+}
+
+img {
+    width: 300px;
+}
